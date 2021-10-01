@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Model\\": "models/",
+            "Controller\\": "controllers/",
+            "Util\\": "classes/"
+        }
+    },
+    "require": {
+        "embed/embed": "^3.4"
+    }
+}
